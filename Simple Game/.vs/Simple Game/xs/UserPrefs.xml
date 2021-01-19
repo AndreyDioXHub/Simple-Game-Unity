@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2632BDC3-F5CE-C443-72F6-59EAEC9BDD0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EventManager.cs" Line="33" Column="18" />
+      <File FileName="Assets/Scripts/Player.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/ProjectTile.cs" Line="12" Column="32" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="21" Column="129" />
+      <File FileName="../Mega Crypto Bit/Mega Crypto Bit/Assets/Scripts/LoadingProgress.cs" Line="41" Column="78" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="40" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e1f5878-2360-497c-bd11-c9bd39d46642" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
